@@ -1,0 +1,33 @@
+# Eclipse specific files
+.settings/
+.project
+.classpath
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# IDE specific files
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse local history
+.localhistory/
+
+# Maven wrapper files (optional, if you use mvnw)
+/mvnw
+/mvnw.cmd
+/.mvn/
+
+# IntelliJ IDEA (in case multiple developers use different IDEs)
+.idea/
+*.iml
+
+# Backup files
+*~
